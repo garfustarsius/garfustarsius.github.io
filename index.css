@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+    color: aliceblue;
+}
+
+.col-4 {
+    width: 100%;
+}
+
+#mywork {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#me{
+    padding-top: 12%
+}
+
+#card {
+    border-style: none;
+}
+
+#buttonwork {
+    padding-top: 10%;
+}
+
+#connect {
+   padding-top: 2%;
+}
